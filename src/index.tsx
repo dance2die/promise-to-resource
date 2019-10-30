@@ -1,14 +1,14 @@
 export default function wrapPromise<T>(promise: Promise<T>) {
-  let status: string = "pending";
+  let status: "pending" | "error" | "success";
   let result: T | Error;
 
   let suspender = promise.then(
     (r: T) => {
-      status = "Success";
+      status = "success";
       result = r;
     },
     (e: Error) => {
-      status = "Error!";
+      status = "error";
       result = e;
     }
   );
