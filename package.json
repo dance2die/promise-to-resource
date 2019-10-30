@@ -4,7 +4,7 @@
   "author": "dance2die <sungmkim80@gmail.com>",
   "homepage": "https://github.com/dance2die/promise-to-resource",
   "license": "MIT",
-  "main": "dist/index.js",
+  "main": "dist/promise-to-resource.esm.js",
   "module": "dist/promise-to-resource.esm.js",
   "typings": "dist/index.d.ts",
   "files": [
