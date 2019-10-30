@@ -14,6 +14,15 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "MinimumViablePerson",
+      "name": "Nicolas Marcora",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16916098?v=4",
+      "profile": "https://github.com/MinimumViablePerson",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
