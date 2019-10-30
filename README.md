@@ -1,5 +1,5 @@
 # TSDX React User Guide
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
 
@@ -157,6 +157,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://twitter.com/dance2die"><img src="https://avatars1.githubusercontent.com/u/8465237?v=4" width="100px;" alt="Sung M. Kim"/><br /><sub><b>Sung M. Kim</b></sub></a><br /><a href="https://github.com/dance2die/promise-to-resource/commits?author=dance2die" title="Code">💻</a> <a href="#ideas-dance2die" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/MinimumViablePerson"><img src="https://avatars3.githubusercontent.com/u/16916098?v=4" width="100px;" alt="Nicolas Marcora"/><br /><sub><b>Nicolas Marcora</b></sub></a><br /><a href="https://github.com/dance2die/promise-to-resource/commits?author=MinimumViablePerson" title="Code">💻</a></td>
   </tr>
 </table>
 
