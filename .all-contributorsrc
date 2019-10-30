@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "MinimumViablePerson",
+      "name": "Nicolas Marcora",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16916098?v=4",
+      "profile": "https://github.com/MinimumViablePerson",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "promise-to-resource",
+  "projectOwner": "dance2die",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
